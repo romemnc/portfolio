@@ -1,0 +1,22 @@
+body {
+}
+a, .p1 {
+  font-family: 'Roboto Mono', sans-serif;
+}
+
+.p2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p, label, .navfoot {
+  font-family: 'Mulish', sans-serif;
+}
+
+ul, li, a {
+  color: black !important;
+}
+
+
+a:active {
+  color: black !important;
+}
